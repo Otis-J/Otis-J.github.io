@@ -3,7 +3,7 @@
         $servername = "localhost";
         $username = "user_otis";
         $password = "zkingpin";
-        $connname = "contact_form";
+        $connname = "dahspotdb";
 
         // Create connection
         $conn = mysqli_connect($servername, $username, $password, $connname);

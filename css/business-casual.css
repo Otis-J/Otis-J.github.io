@@ -23,7 +23,7 @@ h6 {
 p {
     font-size: 1.5em;
     line-height: 1.6;
-    color: #999999;
+    color: white;
     font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     font: italic;
 }
@@ -105,7 +105,7 @@ footer {
 }
 
 footer h6 a{
-    color:  #999999;
+    color:  white;
 }
 
 footer p {
@@ -200,4 +200,3 @@ footer p {
         clear: both;
     }
 }
-
